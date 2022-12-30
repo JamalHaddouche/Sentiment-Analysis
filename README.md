@@ -9,3 +9,5 @@ J'ai utilisé les notions de traitement du langage naturel pour préparer mes do
 **Interface de l'application**
 ![image](https://user-images.githubusercontent.com/82270887/210051418-a6903a3d-8723-48ef-ad9c-6ffa8a22d9d7.png)
 
+**Remarque**
+Pour lancer l'application utilise la commande suivante " streamlit run streamlit.py"
